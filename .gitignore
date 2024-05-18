@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MathMify/.vs/MathMify
+/MathMify/MathMify/bin
+/MathMify/MathMify/obj/Debug
